@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    {{ partial "meta.html" . }}
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title> {{ .Title }}</title>
+
+    <base href="{{ .Site.BaseURL }}">
+    <title> {{ .Title }} - spf13.com </title>
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    {{ partial "head_includes.html" . }}
+
+  </head>
+  <body>
+

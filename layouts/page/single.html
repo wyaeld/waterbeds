@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+<div class="container">
+
+  {{ partial "banner.html" . }}
+
+  <div id="primary-layout" class="row">
+    <div id="sidebar" class="col-xs-4">
+      {{ partial "sidebar.html" . }}
+      {{ partial "testimonials.html" . }}
+    </div>
+    <div id="content" class="col-xs-8">
+      <article class="content">
+        {{ .Content }}
+      </article>
+      <div class="boxed">
+      </div>
+    </div>
+  </div>
+
+
+
+{{ partial "footer.html" . }}
+</div>

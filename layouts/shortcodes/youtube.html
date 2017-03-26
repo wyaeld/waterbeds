@@ -1,0 +1,4 @@
+<div class="embed video-player">
+<iframe class="youtube-player" type="text/html" width="{{ if isset .Params "width" }}{{ .Get "width" }}{{ else }}640{{ end }}" height="{{ if isset .Params "height" }}{{ .Get "height" }}{{ else }}385{{ end }}" src="http://www.youtube.com/embed/{{ .Get "id" }}" allowfullscreen frameborder="0">
+</iframe>
+</div>

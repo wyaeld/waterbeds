@@ -95,3 +95,12 @@ body.two-col #navigation {
   padding: 1em;
   background: white;
 }
+
+
+h1.reverse {
+  color: white;
+  background: black;
+  margin-top: -14px;
+  margin-right: -14px;
+  margin-left: -14px;
+}

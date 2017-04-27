@@ -1,4 +1,8 @@
-# When did you last clean +inside+ your Mattress?
+---
+title: Asthma
+---
+
+<h1 class="reverse">When did you last clean inside your Mattress?</h1>
   
 Last week, last month, last year, 5 years ago, 10 years ago, NEVER!!!
 
@@ -6,14 +10,17 @@ Most people would not believe what accumulates in their mattresses over a period
 
 Conventional mattressess are notorious for becoming a breeding ground for dust mites, and a respository for dead skin - just the things people struggling with asthma or any other respiratory disorders don't need.
 
-{{< figure src="/img/dustmitex.jpg" title="Dust mites points" class="pull-left post-image-left" >}}
+{{< figure src="/img/dustmitex.jpg" >}}
 
-# *Fact 1:* Waterbeds don't have anywhere for dust mites to live.
-# *Fact 2:* The vinyl bladder and liner can be wiped clean of dead skin, dust etc. with just a damp cloth
-# *Fact 3:* The wool top can be unzipped, taken off, and washed or dry-cleaned periodically to keep it fresh and hygenic.
-# *Fact 4:* People with breathing problems have found that a waterbed gives them a more restful night.
+*Fact 1:* Waterbeds don't have anywhere for dust mites to live.
+
+*Fact 2:* The vinyl bladder and liner can be wiped clean of dead skin, dust etc. with just a damp cloth
+
+*Fact 3:* The wool top can be unzipped, taken off, and washed or dry-cleaned periodically to keep it fresh and hygenic.
+
+*Fact 4:* People with breathing problems have found that a waterbed gives them a more restful night.
   
-If you google *_asthma_* and *_waterbed_* you will be faced with testimonials like:
+If you google __asthma__ and __waterbed__ you will be faced with testimonials like:
     
 > Hello everyone. My daughter has allergy induced asthma.  Since she struggles more at night we decided to get her a waterbed (fewer dust mites, etc) and this child went from having a nebulizer treatment 1-2 times a night to having 2 treatments in the last 2 weeks.  We are not used to living like this.  Less coughing and less struggle for her.  It is amazing
 

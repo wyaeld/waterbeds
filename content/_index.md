@@ -1,3 +1,8 @@
+---
+title: Colin's Story
+layout: page
+---
+
 # BACK PAIN RELIEF
 
 {{< figure src="/img/colin.jpg" title="Colin - Mr Waterbed" class="pull-left post-image-left" >}}

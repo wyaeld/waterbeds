@@ -1,6 +1,6 @@
 ---
 title: Colin's Story
-layout: page
+type: index
 ---
 
 # BACK PAIN RELIEF

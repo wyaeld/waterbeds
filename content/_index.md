@@ -27,5 +27,5 @@ Needless to say, Colin is still on his modern Softsided Waterbed, his back conti
 Unlike the old wood framed monsters of the 80's, the softside waterbed looks exactly like a normal bed.  There are no hard edges, you can roll out of it exactly like your normal bed.  The water doesn't move freely, material inside the bladder gives you a customizable level of motion, so we won't lose you overboard.
       
 Have a look at this short video which shows a waterbed similar to ours for an idea.
-    
-{{< youtube src="https://www.youtube.com/v/prkAgaMN8Rk?version=3" title="Colin" width="575" >}}
+
+{{< youtube prkAgaMN8Rk >}}

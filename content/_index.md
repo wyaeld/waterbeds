@@ -28,4 +28,4 @@ Unlike the old wood framed monsters of the 80's, the softside waterbed looks exa
       
 Have a look at this short video which shows a waterbed similar to ours for an idea.
     
-{{< youtube src="http://www.youtube.com/v/prkAgaMN8Rk?version=3" title="Colin" width="575" >}}
+{{< youtube src="https://www.youtube.com/v/prkAgaMN8Rk?version=3" title="Colin" width="575" >}}

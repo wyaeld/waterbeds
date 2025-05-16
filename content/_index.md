@@ -1,5 +1,6 @@
 ---
 title: Colin's Story
+draft: false
 type: index
 ---
 

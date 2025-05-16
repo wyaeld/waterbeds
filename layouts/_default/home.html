@@ -10,11 +10,7 @@
     </div>
     <div id="content" class="col-xs-8">
       <article class="content">
-        {{ range .Data.Pages }}
-          {{if eq .Type "index" }}
-              {{.Content}}
-          {{end}}
-      {{ end }}
+        {{ .Content }}
       </article>
       <div class="boxed">
       </div>
